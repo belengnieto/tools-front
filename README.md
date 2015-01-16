@@ -8,6 +8,7 @@ El proceso será el siguiente:
 · Git
 · Node.js
 · Ruby
+3. Clonar proyecto en nuestro local con git
 2. Crear un scaffolding (esqueleto de carpetas). Ver Yeoman (http://yeoman.io/)
 3. Crear las tareas grunt en archivo Gruntfile (tareas de compilación css y js, tareas de cambios automáticos,.... todas las que se nos ocurran)
 4. Preparar el apimocker (como simulador de servidor)
